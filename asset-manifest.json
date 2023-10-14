@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VNRVignanaJyothi_20071A12A0_VamshiKrishna_Onneri_CCC_EComm/static/css/main.fb5e0ca7.css",
+    "main.js": "/VNRVignanaJyothi_20071A12A0_VamshiKrishna_Onneri_CCC_EComm/static/js/main.ef8ddb27.js",
+    "static/js/787.668d070f.chunk.js": "/VNRVignanaJyothi_20071A12A0_VamshiKrishna_Onneri_CCC_EComm/static/js/787.668d070f.chunk.js",
+    "static/media/logo.svg": "/VNRVignanaJyothi_20071A12A0_VamshiKrishna_Onneri_CCC_EComm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/VNRVignanaJyothi_20071A12A0_VamshiKrishna_Onneri_CCC_EComm/index.html",
+    "main.fb5e0ca7.css.map": "/VNRVignanaJyothi_20071A12A0_VamshiKrishna_Onneri_CCC_EComm/static/css/main.fb5e0ca7.css.map",
+    "main.ef8ddb27.js.map": "/VNRVignanaJyothi_20071A12A0_VamshiKrishna_Onneri_CCC_EComm/static/js/main.ef8ddb27.js.map",
+    "787.668d070f.chunk.js.map": "/VNRVignanaJyothi_20071A12A0_VamshiKrishna_Onneri_CCC_EComm/static/js/787.668d070f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb5e0ca7.css",
+    "static/js/main.ef8ddb27.js"
+  ]
+}
